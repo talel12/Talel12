@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/taleldouz"><img src="https://api.daily.dev/devcards/8fb57542034247cd89aa61ea06920968.png?r=vk3" width="400" alt="Talel Douz's Dev Card"/></a>
+
 <!--
 **Talel12/Talel12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
